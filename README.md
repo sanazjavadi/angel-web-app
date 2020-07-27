@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue Enterprise Boilerplate
 
 **You diverged from the boilerplate on Jul 27 2020. See [what's been added](https://github.com/chrisvfritz/vue-enterprise-boilerplate/compare/890438c3b898d6ed921fd2d0e3b84f2fe7162d89...master) since then.**
@@ -78,3 +79,6 @@ I have no plans to personally, but you can find Nuxt forks at [debs-obrien/nuxt-
 **This isn't exactly what I'm looking for. Where can I find other boilerplates and similar projects?**
 
 See the [awesome-vue](https://github.com/vuejs/awesome-vue#scaffold) repo for other great projects in the Vue ecosystem.
+=======
+# angel-web-app
+>>>>>>> 2038f422c654269c3de230a381324738ac8162e3
